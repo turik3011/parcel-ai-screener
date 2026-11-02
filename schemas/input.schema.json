@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ParcelInput",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "cadastral_area": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Název katastrálního území."
+    },
+    "parcel_number": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Parcelní číslo ve formátu evidovaném v katastru nemovitostí."
+    },
+    "area_m2": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Výměra parcely v metrech čtverečních."
+    },
+    "land_type": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Druh pozemku podle katastru nemovitostí v původním českém znění."
+    },
+    "land_use": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Způsob využití podle katastru; null znamená nezadaný nebo nezjištěný údaj."
+    },
+    "protection_regimes": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Evidované způsoby ochrany; null = nezjištěno, [] = ověřeno, bez záznamů."
+    },
+    "registered_encumbrances": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Evidovaná omezení vlastnického práva; null = nezjištěno, [] = ověřeno, bez záznamů."
+    },
+    "additional_context": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Doplňující ověřené informace o parcele; pokud nejsou k dispozici, použijte null."
+    }
+  },
+  "required": [
+    "cadastral_area",
+    "parcel_number",
+    "area_m2",
+    "land_type"
+  ]
+}

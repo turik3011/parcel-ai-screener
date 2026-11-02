@@ -1,0 +1,45 @@
+
+
+
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ParcelAssessment",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "category": {
+      "type": "string",
+      "enum": ["AGRICULTURAL", "FOREST", "WATER", "BUILT_UP", "OTHER", "UNKNOWN"],
+      "description": "Orientační klasifikace druhu pozemku."
+    },
+    "potential_uses": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "description": "Možnosti využití k dalšímu ověření; nejde o potvrzení stavebního oprávnění."
+    },
+    "risks": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "description": "Rizika a omezení vyplývající z dodaných podkladů."
+    },
+    "missing_information": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "description": "Důležité informace, které nebyly předloženy nebo ověřeny."
+    },
+    "recommendation": {
+      "type": "string",
+      "enum": ["PROCEED", "REVIEW", "LOW_PRIORITY", "INSUFFICIENT_DATA"],
+      "description": "Předběžná priorita dalšího prověřování, nikoli rozhodnutí o koupi."
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Stručné odůvodnění doporučení v češtině."
+    }
+  },
+  "required": ["category", "potential_uses", "risks", "missing_information", "recommendation", "summary"]
+}
+
+
