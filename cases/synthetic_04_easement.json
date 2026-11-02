@@ -1,0 +1,14 @@
+{
+  "cadastral_area": "Javorový Dvůr",
+  "parcel_number": "205/9",
+  "area_m2": 640,
+  "land_type": "zahrada",
+  "land_use": null,
+  "protection_regimes": [
+    "zemědělský půdní fond"
+  ],
+  "registered_encumbrances": [
+    "věcné břemeno zřizování a provozování elektrického vedení"
+  ],
+  "additional_context": "Pozemek sousedí s obecní komunikací a vede k němu zpevněná příjezdová cesta."
+}
