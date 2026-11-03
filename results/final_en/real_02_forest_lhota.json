@@ -1,0 +1,19 @@
+{
+  "category": "FOREST",
+  "potential_uses": [
+    "lesní hospodaření"
+  ],
+  "risks": [
+    "Pozemek je určen k plnění funkcí lesa, což může omezovat jiné způsoby využití.",
+    "Pozemek je ve vlastnictví České republiky, což může znamenat omezení v převodu nebo zvláštní podmínky při nabytí.",
+    "Právo hospodařit má státní organizace Vojenské lesy a statky ČR, s. p., což může omezovat přímé užívání vlastníkem.",
+    "Není doloženo, zda existují další právní omezení či věcná břemena."
+  ],
+  "missing_information": [
+    "Podrobné informace o územním plánu a možnostech změny využití pozemku.",
+    "Podmínky a omezení spojené s vlastnictvím státem a hospodařením Vojenských lesů a statků ČR, s. p.",
+    "Informace o přístupu na pozemek a právu cesty."
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je lesní pozemek určený k plnění funkcí lesa a je ve vlastnictví státu s hospodařením svěřeným Vojenským lesům a statkům ČR, s. p. To může omezovat možnosti využití a převodu, proto je nutné další ověření právních a územních podmínek."
+}

@@ -1,0 +1,18 @@
+{
+  "category": "FOREST",
+  "potential_uses": [
+    "lesnictví",
+    "rekreace"
+  ],
+  "risks": [
+    "pozemek je určen k plnění funkcí lesa, což omezuje stavební využití",
+    "nesoulad mezi evidovaným účelem (lesní pozemek) a údajem o stavební parcele v additional_context"
+  ],
+  "missing_information": [
+    "oficiální potvrzení stavebního oprávnění",
+    "územní plán a stavební regulace",
+    "podrobnosti o právních vztazích a omezeních"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je evidován jako lesní pozemek s ochranou k plnění funkcí lesa, což omezuje stavební využití. Přesto additional_context uvádí, že jde o stavební parcelu určenou pro výstavbu rodinného domu bez dalších administrativních kroků. Tento rozpor vyžaduje další ověření a prověření právního stavu a územního plánu."
+}

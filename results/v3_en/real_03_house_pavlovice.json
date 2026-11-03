@@ -1,0 +1,17 @@
+{
+  "category": "BUILT_UP",
+  "potential_uses": [
+    "Rezidenční využití"
+  ],
+  "risks": [
+    "Neznámý stav a právní situace stavby rodinného domu na pozemku.",
+    "Neznámé případné zástavy, věcná břemena nebo jiná omezení zapsaná v katastru nemovitostí, protože informace o zatížení nejsou k dispozici."
+  ],
+  "missing_information": [
+    "Podrobné informace o právním a technickém stavu stavby rodinného domu č. p. 55.",
+    "Údaje o případných omezeních, zástavách nebo věcných břemenech evidovaných v katastru nemovitostí.",
+    "Informace o územním plánu a stavebním povolení pro pozemek a stavbu."
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je zastavěná plocha s rodinným domem, což naznačuje rezidenční využití. Chybí však informace o právním a technickém stavu stavby a o možných omezeních v katastru, proto je nutné další ověření před dalším postupem."
+}

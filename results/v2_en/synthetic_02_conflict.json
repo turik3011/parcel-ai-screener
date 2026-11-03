@@ -1,0 +1,18 @@
+{
+  "category": "FOREST",
+  "potential_uses": [
+    "lesní hospodaření",
+    "ochrana přírody"
+  ],
+  "risks": [
+    "pozemek je určen k plnění funkcí lesa, což omezuje stavební využití",
+    "nesoulad mezi evidovaným typem pozemku a uvedeným stavebním určením v dodatečném kontextu"
+  ],
+  "missing_information": [
+    "potvrzení stavebního oprávnění a příslušných povolení",
+    "územní plán a jeho regulace pro daný pozemek",
+    "právní stav a vlastnická práva k pozemku"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je evidován jako lesní pozemek s ochranou funkcí lesa, což omezuje stavební využití. Dodatečný kontext uvádí stavební určení, což je v rozporu s evidencí. Doporučuje se další ověření právního stavu a stavebních oprávnění."
+}

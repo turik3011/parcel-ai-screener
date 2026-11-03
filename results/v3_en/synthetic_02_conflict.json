@@ -1,0 +1,19 @@
+{
+  "category": "FOREST",
+  "potential_uses": [
+    "lesní hospodaření",
+    "ochrana přírody"
+  ],
+  "risks": [
+    "pozemek je určený k plnění funkcí lesa, což omezuje jiné způsoby využití",
+    "nesoulad mezi katastrálním zařazením (lesní pozemek) a tvrzením o stavební parcele a možnosti výstavby",
+    "nutnost ověřit platnost a právní závaznost údaje o možnosti výstavby bez dalších administrativních kroků"
+  ],
+  "missing_information": [
+    "územní plán a stavební povolení či jiné stavební dokumenty potvrzující možnost výstavby",
+    "podrobnosti o právním stavu a omezeních vyplývajících z ochrany lesa",
+    "ověření skutečného právního stavu parcely vzhledem k rozporu mezi katastrálním zařazením a údajem o stavební parcele"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Parcelu evidovanou jako lesní pozemek s ochranou pro plnění funkcí lesa nelze bez dalšího považovat za stavební parcelu vhodnou pro výstavbu. Je nutné prověřit rozpor mezi katastrálním zařazením a tvrzením o možnosti výstavby, včetně ověření platnosti stavebního oprávnění a soulad s územním plánem."
+}

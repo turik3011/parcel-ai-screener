@@ -11,7 +11,7 @@ load_dotenv(ROOT_DIR / ".env")
 MODEL_NAME = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 
 PROMPT_PATH = ROOT_DIR / os.getenv(
-    "PROMPT_PATH", "prompts/v1_en.txt"
+    "PROMPT_PATH", "prompts/v2_en.txt"
 )
 
 OUTPUT_SCHEMA_PATH = ROOT_DIR / "schemas" / "output.schema.json"

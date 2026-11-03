@@ -1,0 +1,17 @@
+{
+  "category": "AGRICULTURAL",
+  "potential_uses": [
+    "zahradničení",
+    "rekreační využití"
+  ],
+  "risks": [
+    "omezení vyplývající z ochrany zemědělského půdního fondu",
+    "věcné břemeno pro elektrické vedení může omezovat využití pozemku"
+  ],
+  "missing_information": [
+    "územní plán a stavební možnosti pozemku",
+    "právní stav a podmínky přístupu přes obecní komunikaci a zpevněnou cestu"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je evidován jako zahrada a je součástí zemědělského půdního fondu, což může omezovat jeho využití. Je zde zřízeno věcné břemeno pro elektrické vedení, které může omezovat některé činnosti. Přístup je fyzicky možný přes obecní komunikaci a zpevněnou cestu, ale právní stav přístupu není ověřen. Doporučuje se další prověření územního plánu, stavebních možností a právního stavu přístupu."
+}

@@ -1,0 +1,14 @@
+{
+  "category": "OTHER",
+  "potential_uses": [],
+  "risks": [
+    "Nejsou k dispozici informace o evidovaných omezeních, což znamená, že stav registrovaných zatížení není znám."
+  ],
+  "missing_information": [
+    "Chybí informace o konkrétním využití pozemku.",
+    "Není známo, zda na pozemku platí nějaká ochranná režima.",
+    "Není k dispozici informace o právním režimu přístupu k pozemku."
+  ],
+  "recommendation": "INSUFFICIENT_DATA",
+  "summary": "Pozemek je evidován jako ostatní plocha bez specifikovaného využití a bez dostupných informací o omezeních či ochranných režimech. Pro předběžné posouzení je nutné doplnit údaje o využití, právním režimu a případných omezeních."
+}

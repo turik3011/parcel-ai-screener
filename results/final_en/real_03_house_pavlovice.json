@@ -1,0 +1,17 @@
+{
+  "category": "BUILT_UP",
+  "potential_uses": [
+    "Rezidenční využití"
+  ],
+  "risks": [
+    "Neznámý stav evidovaných omezení a zatížení pozemku.",
+    "Nutnost ověřit právní a technický stav stavby rodinného domu na pozemku."
+  ],
+  "missing_information": [
+    "Právní stav a vlastnická práva k pozemku a stavbě.",
+    "Územní plán a stavební možnosti pozemku.",
+    "Podrobnosti o přístupu a příjezdových komunikacích."
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je zastavěná plocha s rodinným domem, vhodný pro rezidenční využití. Chybí informace o evidovaných omezeních a právním stavu stavby, proto je nutné další ověření před dalším postupem."
+}

@@ -1,0 +1,18 @@
+{
+  "category": "OTHER",
+  "potential_uses": [
+    "skladování",
+    "dopravní plocha",
+    "technická infrastruktura"
+  ],
+  "risks": [
+    "neznámý právní režim a omezení vzhledem k chybějícím údajům o ochraně a zástavních právech"
+  ],
+  "missing_information": [
+    "účel využití pozemku",
+    "ochranná pásma a režimy ochrany",
+    "zástavní práva a jiné právní omezení"
+  ],
+  "recommendation": "INSUFFICIENT_DATA",
+  "summary": "Pozemek je evidován jako ostatní plocha bez bližších údajů o využití či omezeních, chybí informace o právních a ochranných režimech, což znemožňuje kvalifikované doporučení dalšího postupu."
+}

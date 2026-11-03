@@ -1,0 +1,16 @@
+{
+  "category": "AGRICULTURAL",
+  "potential_uses": [
+    "zemědělská výroba",
+    "investiční držba"
+  ],
+  "risks": [
+    "zařazení do zemědělského půdního fondu omezuje stavební využití"
+  ],
+  "missing_information": [
+    "chybí informace o územně plánovací dokumentaci",
+    "není ověřeno stavební oprávnění"
+  ],
+  "recommendation": "PROCEED",
+  "summary": "Pozemek je orná půda zařazená do zemědělského půdního fondu, což omezuje stavební využití. Lokalita odpovídá investičním kritériím a je vhodná k nákupu. Doporučuje se další prověření územního plánu a stavebních podmínek."
+}

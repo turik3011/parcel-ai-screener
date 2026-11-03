@@ -1,0 +1,14 @@
+{
+  "category": "OTHER",
+  "potential_uses": [],
+  "risks": [
+    "Nejsou k dispozici informace o právních omezeních a evidovaných zatíženích pozemku."
+  ],
+  "missing_information": [
+    "Údaje o konkrétním využití pozemku nejsou uvedeny.",
+    "Chybí informace o územním plánu a stavebních možnostech.",
+    "Není známo, zda je zajištěn právní přístup k pozemku."
+  ],
+  "recommendation": "INSUFFICIENT_DATA",
+  "summary": "Pozemek je evidován jako ostatní plocha bez specifikovaného využití a bez dostupných údajů o omezeních či zatíženích. Chybí klíčové informace pro posouzení jeho využitelnosti a právního stavu, proto není možné provést smysluplné předběžné hodnocení."
+}

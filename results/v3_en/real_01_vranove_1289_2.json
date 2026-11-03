@@ -1,0 +1,17 @@
+{
+  "category": "AGRICULTURAL",
+  "potential_uses": [
+    "zemědělská výroba"
+  ],
+  "risks": [
+    "zařazení do chráněné krajinné oblasti a III. zóny může omezovat zásahy do krajiny a využití pozemku",
+    "zařazení do evropsky významné lokality může znamenat další environmentální omezení",
+    "zařazení do zemědělského půdního fondu omezuje změny využití pozemku"
+  ],
+  "missing_information": [
+    "konkrétní územní plán a regulativy pro parcelu",
+    "přesné podmínky ochrany v rámci chráněné krajinné oblasti a evropsky významné lokality"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je orná půda s významnými ochrannými režimy, které mohou omezovat jeho využití. Pro další posouzení je nutné ověřit územní plán a podmínky ochrany."
+}

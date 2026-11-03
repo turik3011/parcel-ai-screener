@@ -1,0 +1,17 @@
+{
+  "category": "AGRICULTURAL",
+  "potential_uses": [
+    "zahradničení",
+    "rekreační využití"
+  ],
+  "risks": [
+    "zařazení do zemědělského půdního fondu omezuje stavební využití"
+  ],
+  "missing_information": [
+    "územní plán a stavební možnosti",
+    "přesné právní omezení v rámci zemědělského půdního fondu",
+    "stav a kvalita pozemku"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je evidován jako zahrada a je součástí zemědělského půdního fondu, což může omezovat stavební využití. Doporučuje se další prověření územního plánu a právních omezení."
+}

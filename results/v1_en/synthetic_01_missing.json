@@ -1,0 +1,16 @@
+{
+  "category": "OTHER",
+  "potential_uses": [
+    "možné využití pro účely odpovídající druhu pozemku 'ostatní plocha'"
+  ],
+  "risks": [
+    "nejsou k dispozici informace o ochraně, omezeních či zástavních právech"
+  ],
+  "missing_information": [
+    "účel využití pozemku",
+    "přesné právní omezení a ochranná režimy",
+    "stav a přístup k pozemku"
+  ],
+  "recommendation": "INSUFFICIENT_DATA",
+  "summary": "Pozemek je klasifikován jako 'ostatní plocha', chybí však klíčové informace o využití, právních omezeních a ochraně, což znemožňuje smysluplné předběžné hodnocení."
+}

@@ -1,0 +1,18 @@
+{
+  "category": "AGRICULTURAL",
+  "potential_uses": [
+    "zahradničení",
+    "rekreační využití"
+  ],
+  "risks": [
+    "zařazení do zemědělského půdního fondu může omezovat změnu využití pozemku a stavební činnost"
+  ],
+  "missing_information": [
+    "stav a rozsah případných dalších právních omezení nebo věcných břemen",
+    "územní plán a možnosti změny využití pozemku",
+    "přístup k pozemku a jeho právní zajištění",
+    "informace o vlastnictví a případných omezeních v katastru nemovitostí"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek vedený jako zahrada o výměře 427 m² je zařazen do zemědělského půdního fondu, což může omezovat jeho další využití a stavební možnosti. Chybí informace o dalších právních omezeních, územním plánu a přístupu k pozemku, proto je doporučeno další prověření."
+}

@@ -1,0 +1,17 @@
+{
+  "category": "FOREST",
+  "potential_uses": [
+    "lesní hospodaření",
+    "ochrana přírody"
+  ],
+  "risks": [
+    "vlastnictví státu může omezovat možnosti převodu nebo užívání",
+    "ochrana pozemku určeného k plnění funkcí lesa omezuje jiné způsoby využití"
+  ],
+  "missing_information": [
+    "konkrétní podmínky hospodaření a omezení stanovené vlastníkem a správcem",
+    "přesné právní podmínky převodu nebo užívání pozemku"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je lesní pozemek určený k plnění funkcí lesa ve vlastnictví státu, což omezuje možnosti využití a vyžaduje ověření podmínek hospodaření a převodu."
+}

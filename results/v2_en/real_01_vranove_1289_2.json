@@ -1,0 +1,18 @@
+{
+  "category": "AGRICULTURAL",
+  "potential_uses": [
+    "zemědělská výroba",
+    "pěstování plodin"
+  ],
+  "risks": [
+    "omezení využití v důsledku ochrany přírody v chráněné krajinné oblasti a evropsky významné lokalitě",
+    "omezení hospodaření kvůli zařazení do zemědělského půdního fondu"
+  ],
+  "missing_information": [
+    "konkrétní podmínky a omezení vyplývající z ochranných režimů",
+    "stav a kvalita půdy",
+    "přístup na pozemek a právní zajištění přístupu"
+  ],
+  "recommendation": "REVIEW",
+  "summary": "Pozemek je orná půda vhodná pro zemědělské využití, ale nachází se v chráněné krajinné oblasti a evropsky významné lokalitě, což může výrazně omezit možnosti hospodaření. Chybí detailní informace o konkrétních omezeních a přístupu, proto je doporučeno další prověření."
+}
